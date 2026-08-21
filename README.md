@@ -31,15 +31,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <!-- Widget Stats Otomatis (Langsung memanggil API dari username rizky-chimo) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=rizky-chimo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-chimo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- Widget Streak Stats (Server lebih stabil dan anti-broken) -->
+  <a href="https://github.com/rizky-chimo">
+    <img src="https://streak-stats.demolab.com?user=rizky-chimo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
